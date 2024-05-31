@@ -1,0 +1,2 @@
+# testingapp
+try Automate tests
