@@ -1,2 +1,2 @@
 # testingapp
-try Automate tests
+try Automate tests on java
